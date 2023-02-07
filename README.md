@@ -25,3 +25,6 @@ Step 9 : enter password you created while in putty and then go to maintainence s
 >>>>>>>>>>>>>>>>>>>>>>>>
 
 Twitter : @suhasdasari
+
+
+COMPLETE VIDEO TUTORIAL : https://youtu.be/B7u1Moo6df0 
