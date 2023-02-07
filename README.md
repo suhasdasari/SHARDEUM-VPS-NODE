@@ -1,7 +1,7 @@
 # SHARDEUM-VPS-NODE
 
 
-Step 1 : go to " https://pq.hosting/?from=558058 ", scroll down go to choose tariff category and select Palladium(Processor:vCore x4, 8GB RAM ECC) or above tariff and click on Order server. >> For better fuctionality use Rhodium tariff which has 16GB RAM specification
+Step 1 : go to " https://bit.ly/ShardeumNode ", scroll down go to choose tariff category and select Palladium(Processor:vCore x4, 8GB RAM ECC) or above tariff and click on Order server. >> For better fuctionality use Rhodium tariff which has 16GB RAM specification
 
 Step 2 : Select Operating system as Ubuntu 22.04 and above, leave the other options as it is and click on add to cart
 
