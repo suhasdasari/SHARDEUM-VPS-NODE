@@ -9,4 +9,8 @@ Step 3 : Enter " SHARDEUM " in promocode section and the prices should fall with
 
 Step 4 : Now load funds to your PQ Hosting account and pay the bill of your server
 
-Step 5 : 
+Step 5 : Wait for VPS to get activated, and after activating go to Virtual private servers section in pq hosting and double click on your server details and copy your IP address
+
+Step 6 : Download and launch putty (https://www.putty.org/). and fill the ip address in host name section in putty and open it
+
+Step 7 : 
