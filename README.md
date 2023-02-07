@@ -13,4 +13,15 @@ Step 5 : Wait for VPS to get activated, and after activating go to Virtual priva
 
 Step 6 : Download and launch putty (https://www.putty.org/). and fill the ip address in host name section in putty and open it
 
-Step 7 : 
+Step 7 : Run each line of code in " putty codes " file attached in putty
+
+Step 8 : paste your VPS ip address in place of localhost in this  https://localhost:8080/ 
+                         for example my VPS ip address is 111.222.333 so the link will be https://111.222.333:8080/ 
+                         
+Step 9 : enter password you created while in putty and then go to maintainence section, stake and start running the node
+
+:)
+
+>>>>>>>>>>>>>>>>>>>>>>>>
+
+Twitter : @suhasdasari
