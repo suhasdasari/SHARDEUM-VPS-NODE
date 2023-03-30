@@ -1,0 +1,11 @@
+1. Stop and unstake your validator
+2. If you're within the container enter 
+-> exit
+and
+-> cd ..
+
+3. Enter
+-> curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh && chmod +x installer.sh && ./installer.sh
+
+4. Start the validator
+5. Stake 10 SHM 
